@@ -30,7 +30,24 @@ h1 {
     text-align: center;
 }
 
+#wait {
+    text-align: center;
+    background-color: pink;
+}
+
+
 .flashy {
     color: red;
     font-style: italic
 ;}
+
+.talk {
+    text-align: center;
+    font-size: 24px;
+}
+
+.talk2 {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
